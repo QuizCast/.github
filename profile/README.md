@@ -27,7 +27,7 @@ Welcome to the **QuizCast GitHub Organization**! This organization hosts the rep
 The frontend of QuizCast is built using **Next.js** and styled with **Tailwind CSS** and **Flowbite**. It provides an intuitive user interface for hosts and participants, featuring real-time updates and seamless interaction with the backend.
 
 - **Key Technologies**: Next.js, Tailwind CSS, Flowbite, Supabase JS SDK
-- **Hosted On**: [Vercel](https://quizcast-teamvertex.vercel.app/
+- **Hosted On**: [Vercel](https://quizcast-teamvertex.vercel.app/)
 
 #### Features:
 - Realtime leaderboard updates.
